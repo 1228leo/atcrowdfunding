@@ -32,6 +32,7 @@ public class WordcountDriver {
         System.exit(result ? 0 : 1);
 		
 		123
+		阿斯蒂芬
 
     }
 }
